@@ -1,1 +1,1 @@
-# ParkingSpotPrediction
+# Data Science Course Materials
