@@ -18,7 +18,7 @@ General Data Privacy
 
 Extent of Data Collection and Storage
 
-For the usage of our websites the registration of your personal data is not necessary in general. For BigDaMa to fulfil requested services, we require personal data in some cases. This applies especially for the individual replying to e-mails, provision of special services, applications, and for the course registration with our grading. We will follow the principle of minimum necessary data request. 
+For the usage of our websites the registration of your personal data is not necessary in general. For BigDaMa to fulfil requested services, we require personal data in some cases. This applies especially for the individual replying to e-mails, provision of special services, applications, and grading. We will follow the principle of minimum necessary data request. 
 If you entrust us with the supply of a service, we will only register and store your personal data as required for the supply of the service.
 
 Collection and Storage of Usage Data
@@ -45,7 +45,7 @@ Big Data Management Group(BigDaMa)
 Electrical Engineering and Computer Science (Faculty IV)
 Einsteinufer 17
 10587 Berlin
-datenschutz@dima.tu-berlin.de
+d8@bigdama.tu-berlin.de
 
 
 
@@ -58,10 +58,10 @@ Database Systems and Information Management Group
 Building EN 7 
 Einsteinufer 17, 10587 Berlin
 
-Telefon:+49 30 314 28007
+Telefon:+49 30 314 23555
 
 Inhaltliche Verantwortung: Mohammad Mahdavi Email: :m.mahdavi@mailbox.tu-berlin.de
 
 Die Technische Universität Berlin ist eine Körperschaft öffentlichen Rechts gemäß §§ 1 und 2 des Berliner Hochschulgesetzes (BerlHG) und zugleich eine staatliche Einrichtung.
 
-Mail:lutz.friedel@tu-berlin.de
+Mail:esmailoghli@tu-berlin.de
