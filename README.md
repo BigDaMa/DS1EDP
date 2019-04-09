@@ -18,7 +18,7 @@ General Data Privacy
 
 Extent of Data Collection and Storage
 
-For the usage of our websites the registration of your personal data is not necessary in general. For BigDaMa to fulfil requested services, we require personal data in some cases. This applies especially for the individual replying to e-mails, provision of special services, applications, and for the course registration with our DIMA registration tool. We will follow the principle of minimum necessary data request. 
+For the usage of our websites the registration of your personal data is not necessary in general. For BigDaMa to fulfil requested services, we require personal data in some cases. This applies especially for the individual replying to e-mails, provision of special services, applications, and for the course registration with our grading. We will follow the principle of minimum necessary data request. 
 If you entrust us with the supply of a service, we will only register and store your personal data as required for the supply of the service.
 
 Collection and Storage of Usage Data
@@ -49,7 +49,7 @@ datenschutz@dima.tu-berlin.de
 
 
 
-## Fachgebiet für Datenbanken und Informationsmanagement
+## Fachgebiet Big Data Management
 
 Impressum:
 
@@ -58,9 +58,9 @@ Database Systems and Information Management Group
 Building EN 7 
 Einsteinufer 17, 10587 Berlin
 
-Telefon:+49 30 314 23555 Fax: +49 30 314 21601i
+Telefon:+49 30 314 28007
 
-Inhaltliche Verantwortung: Lutz Friedel Fax: :+49 30 314 25554
+Inhaltliche Verantwortung: Mohammad Mahdavi Email: :m.mahdavi@mailbox.tu-berlin.de
 
 Die Technische Universität Berlin ist eine Körperschaft öffentlichen Rechts gemäß §§ 1 und 2 des Berliner Hochschulgesetzes (BerlHG) und zugleich eine staatliche Einrichtung.
 
