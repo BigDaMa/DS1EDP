@@ -60,8 +60,8 @@ Einsteinufer 17, 10587 Berlin
 
 Telefon:+49 30 314 23555
 
-Inhaltliche Verantwortung: Mohammad Mahdavi Email: :m.mahdavi@mailbox.tu-berlin.de
+Inhaltliche Verantwortung: Mohammad Mahdavi Email: m.mahdavi@mailbox.tu-berlin.de
 
 Die Technische Universität Berlin ist eine Körperschaft öffentlichen Rechts gemäß §§ 1 und 2 des Berliner Hochschulgesetzes (BerlHG) und zugleich eine staatliche Einrichtung.
 
-Mail:esmailoghli@tu-berlin.de
+Mail: esmailoghli@tu-berlin.de
