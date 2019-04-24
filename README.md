@@ -29,6 +29,7 @@ Data Usage for a Specific Purpose
 
 We collect, process and store your personal data exclusively BigDaMa-intern (usually on servers of our BigDaMa group and from tubIT, IT service center of the TUB rented servers)for the purpose you notified us about and thereby we follow the principle of purpose related data usage. Without your explicit consent your personal data will not be given to third parties as long as it is not necessary for the supply of a service or execution of an agreement. The forwarding of data to requesting governmental institutions and authorities is only conducted based on legal regulations resp. if we legally obligated by a judicial decision. 
 We take BigDaMa internal data privacy very seriously. Our employees and external teachers which are engaged by us are bound by TU Berlin to discretion and the compliance with data privacy laws by contract. 
+After the duration of a course we delete all person related data and only maintain homeworks in anonymized form for further analysis to improve the homework procedure.
 The data privacy of the TU Berlin: 
 Data Privacy
 Datenschutzbeauftragte of the TU Berlin
