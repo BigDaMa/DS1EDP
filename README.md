@@ -66,3 +66,6 @@ Inhaltliche Verantwortung: Mohammad Mahdavi Email: m.mahdavi@mailbox.tu-berlin.d
 Die Technische Universität Berlin ist eine Körperschaft öffentlichen Rechts gemäß §§ 1 und 2 des Berliner Hochschulgesetzes (BerlHG) und zugleich eine staatliche Einrichtung.
 
 Mail: esmailoghli@tu-berlin.de
+
+Further information on data privacy rules of the TU Berlin and contact information of the responsible authorities can be found under the following link: 
+https://www.tu-berlin.de/allgemeine_seiten/datenschutz/
